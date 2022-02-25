@@ -63,5 +63,5 @@ I shall not elaborate on using Visual Studio, but _Microsoft_ (MS) has a [tutori
 [2]: https://visualstudio.microsoft.com/vs/getting-started/
 
 ## Litteratur
-Gookin, D. (2020). _C Programming For Dummies_ (2nd ed.). Hoboken, NJ: John Wiley & Sons, Inc.
-Kernighan, B. & Ritchie, D. (1988). _C Programming Language_ (2nd ed.). London: Pearson.
+- Gookin, D. (2020). _C Programming For Dummies_ (2nd ed.). Hoboken, NJ: John Wiley & Sons, Inc.
+- Kernighan, B. & Ritchie, D. (1988). _C Programming Language_ (2nd ed.). London: Pearson.
