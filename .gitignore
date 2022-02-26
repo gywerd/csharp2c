@@ -3,6 +3,5 @@
 
 # Libraries
 /.vs
-/sourcecode/CPFD/.vs
-/sourcecode/CPFD/x64
-/sourcecode/CPFD/CProgrammingForDummies/x64
+/sourcecode/cprog/.vs
+/sourcecode/cprog/x64

@@ -22,12 +22,12 @@ The inspiration will be from _C#_,_C++_, _Objective-C_, _Object Pascal_, Comal80
 In a perfect world _c# code_ could be compiled with a _C compiler_, but this is not yet possible. In time _Common C_ might be _THE LANGUAGE to rule them all!_ as well as the favoured programming language for beginners.
 
 ## Guide to reading _C for Dummies_
-As an experienced C# programmer, the chapters 1-10 can be skimmed/spipped with a few exceptions:
-- 
-- 
-- 
-- 
-- 
+As an experienced C# programmer, the chapters 1-10 can be skimmed:
+- most Data Types are the same as in C#
+- there is no `string` type in _C_ - instead _C_ has `char *`e.g. `char *strField` - _Common C_ adds `string`
+- there is no `byte` type in _C_ - instead _C_ has `unsigned char` - _Common C_ adds `byte`
+- _Common C_ adds `int8`,`uint8`,`int16`,`uint16`,`int32`,`uint32` ,`int64` &`uint64` (from int8_t,uint8_t,int16_t,uint16_t,int32_t,uint32_t,int64_t,uint64_t)
+- _Common C_ adds `print`(from puts)
 
 ## Development in Visual Studio
 ### Previous requirement
