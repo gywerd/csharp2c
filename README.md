@@ -8,7 +8,7 @@ It is a project in continous development, along the path, that I comprehend the 
 ## Key differences between C# and C
 - _C_ has no `string` or `byte` keywords
 - _C_ has no `namespaces`
-- _C_ is not __Object Oriented Programming__ (OOP) 
+- _C_ is not __Object Oriented__ (OOP) 
 - _C_ has no _garbage collection_
 - _C_ has pointers, which is considered _unsafe code_ in _C#_
 
