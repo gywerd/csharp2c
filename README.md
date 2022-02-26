@@ -26,7 +26,7 @@ As an experienced C# programmer, the chapters 1-10 can be skimmed:
 - most data types are the same as in _C#_ (p. 423)
 - there is no `string` type in _C_ - instead _C_ has `char *` e.g. `char *stringField` - _Common C_ adds `string`
 - there is no `byte` type in _C_ - instead _C_ has `unsigned char` - _Common C_ adds `byte`
-- _C_ use `printf` instead of `Console.Write`& `Console.WriteLine`
+- _C_ use `printf()` instead of `Console.Write()`& `Console.WriteLine()`
 - _Gookin_ scorns `gets`, but Visual Studio 2022 will not compile `fgets` due to _buffer overload_
 
 ## C Development in Visual Studio
